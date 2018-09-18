@@ -1,7 +1,11 @@
-# tweet_wrangling-project
+# tweet_wrangling-project WeRateDog
+
+Introduction
+This project is for Udacity WeRateDogs Twitter account using Python, documented in a Jupyter Notebook (wrangle_act.ipynb). 
+
 
 Project Details
-Your tasks in this project are as follows:
+Tasks in this project are as follows:
 
 Data wrangling, which consists of:
 
@@ -12,4 +16,4 @@ Assessing data
 Cleaning data
 
 Storing, analyzing, and visualizing your wrangled data
-Reporting on 1) your data wrangling efforts and 2) your data analyses and visualizations
+Reporting on 1)  data wrangling efforts and 2) data analyses and visualizations
